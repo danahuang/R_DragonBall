@@ -16,17 +16,22 @@ https://www.rstudio.com/resources/cheatsheets/
 >strsplit重要，要知道如何切文字欄位並補值: 
 https://medium.com/@kevinhsu_83500/r-learning-notes-parsing-%E5%AD%97%E4%B8%B2%E8%99%95%E7%90%86-587264518581
 
-Day2:
-把變數分數值和類別並畫圖
+##Day2:##
+>把變數分數值和類別並畫圖
 
-data.table好用
+>data.table好用
 https://yijutseng.github.io/DataScienceRBook/eda.html
 
-Day3:
-featue engineering is very important!
+##Day3:##
+>featue engineering is very important!
 
-Colunms that missing value w high property should be deleted.
+>Colunms that missing value w high property should be deleted.
 
+##Day4:##
+>Decision tree 的control = rpart.control(minsplit = 1) 要再加上minibucket=1否則會只有根，跑不出來
+
+##Day5:##
+>Xgboost的每棵樹是有關連的，randomforest則無關
 
 what problems I faced in this event:
 1. Not sure why use tidyverse package wo Id in Day3 R file when grouping the variables into a new variable. (It can be rn in Day1 file.)  
