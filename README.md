@@ -10,7 +10,8 @@ https://larry850806.github.io/2016/06/23/regex/
 R cheatsheets
 https://www.rstudio.com/resources/cheatsheets/
 spread好用: transpose columns as dummy variables
-strsplit重要，要知道如何切文字欄位並補值: https://medium.com/@kevinhsu_83500/r-learning-notes-parsing-%E5%AD%97%E4%B8%B2%E8%99%95%E7%90%86-587264518581
+strsplit重要，要知道如何切文字欄位並補值: 
+https://medium.com/@kevinhsu_83500/r-learning-notes-parsing-%E5%AD%97%E4%B8%B2%E8%99%95%E7%90%86-587264518581
 
 Day2:
 把變數分數值和類別並畫圖
